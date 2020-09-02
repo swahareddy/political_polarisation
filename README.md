@@ -1,7 +1,7 @@
 This image was the inspiration for this project. I wanted to make the X axis of this:
-![alt_text](images\2d_scale.jpg){: width="70%" }
+![alt_text](images/2d_scale.jpg){: width="70%" }
 <br>Like this:<br>
-![alt_text](images\linear_scale.jpg ){: width="50%" }
+![alt_text](images/linear_scale.jpg ){: width="50%" }
 
 ## My idea:
 1. Define a right and left wing corpus with words that those wings are usually associated with 
